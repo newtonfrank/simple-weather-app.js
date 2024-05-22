@@ -14,7 +14,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/newtonfrank>/simple-weather-app.git
+git clone https://github.com/newtonfrank/simple-weather-app.git
 
 ```
 
