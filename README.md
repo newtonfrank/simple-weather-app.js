@@ -12,8 +12,12 @@ Getting Started
 
 Clone the repository:
 
-Bash
+```bash
+
 git clone https://github.com/newtonfrank>/simple-weather-app.git
+
+```
+
 Use code with caution.
 content_copy
 Install dependencies (optional):
