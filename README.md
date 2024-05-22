@@ -1,4 +1,4 @@
-<h1>Simple Weather Web App</h1>h1>
+<h1>Simple Weather Web App</h1>
 
 This repository contains a basic weather web application built using HTML, CSS, and JavaScript. Users can enter a city name, click a search button, and the app retrieves weather information for that location from the OpenWeatherMap API.
 
